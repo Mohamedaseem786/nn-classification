@@ -45,8 +45,8 @@ Once the model is done training, we validate and use the model to predict values
 
 ## PROGRAM
 ```
-Developed by: Kadin Samson L
-Reg no:212221230044
+Developed by: mohamed aseem.p
+Reg no:212221230063
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
